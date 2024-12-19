@@ -3,7 +3,6 @@
 | Student Information |                       |
 |:-------------------:|-----------------------|
 |  Student Name       | Khayotbek Azimov      |
-|  Student Email      | kazimov@mail.sfsu.edu |
 |  Personal Email     | xaetbek@gmail.com     |
 
 TankGame
