@@ -4,9 +4,12 @@
 |:-------------------:|-----------------------|
 |  Student Name       | Khayotbek Azimov      |
 |  Student Email      | kazimov@mail.sfsu.edu |
+|  Personal Email     | xaetbek@gmail.com     |
 
 TankGame
-<img width="702" src="https://github.com/user-attachments/assets/7a356289-a523-409c-b2f0-c1e3666829da" />
+
+<img width="710" alt="Screenshot 2024-12-18 at 5 55 30 PM" src="https://github.com/user-attachments/assets/2ba5f919-2ef7-48f9-a2ce-1c9a750943a4" />
+
 <img width="838" alt="Screenshot 2024-12-18 at 5 52 23 PM" src="https://github.com/user-attachments/assets/eddc6863-101f-4ca5-a5ca-7329c0276eaf" />
 
 ## src Folder Purpose 
