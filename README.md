@@ -1,4 +1,4 @@
-# csc413-tankgame SFSU CSC413 Term Project
+#SFSU CSC413 Term Project - TankGame
 
 | Student Information |                       |
 |:-------------------:|-----------------------|
