@@ -50,3 +50,11 @@ we can run the game by double-clicking the jar file("tankgame.jar") found in the
 |  Shoot        |   Q      |   ENTER Key        |
 
 <!-- you may add more controls if you need to. -->
+
+TankGame
+<img width="702" src="https://github.com/user-attachments/assets/7a356289-a523-409c-b2f0-c1e3666829da" />
+<img width="838" alt="Screenshot 2024-12-18 at 5 52 23 PM" src="https://github.com/user-attachments/assets/eddc6863-101f-4ca5-a5ca-7329c0276eaf" />
+
+Tank Game Class Diagram:
+<img width="908" src="https://github.com/user-attachments/assets/ac2e5195-e077-4537-b831-52cf7ab46953" />
+
